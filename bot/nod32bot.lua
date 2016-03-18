@@ -243,7 +243,13 @@ function create_config( )
     "filterworld",
     "server_manager",
     "time",
-    "version"
+    "version",
+    "info",
+    "echo",
+    "robot",
+    "txt2image",
+    "welcome"
+    
     },
 	    sudo_users = {104583328,182748630,140605274},--Sudo users
     disabled_channels = {},
